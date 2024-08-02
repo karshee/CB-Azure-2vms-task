@@ -67,7 +67,3 @@ To deploy this infrastructure in a CI/CD pipeline, follow these steps:
 4. **Testing Infrastructure Changes**:
     - Implement automated tests using Terratest or similar tools to validate infrastructure changes before applying them to production.
     - Ensure thorough testing in the dev and stage environments to minimize risks in production deployments.
-
-## License
-
-This project is licensed under the MIT License.
